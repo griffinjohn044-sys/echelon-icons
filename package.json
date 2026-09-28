@@ -1,0 +1,14 @@
+{
+  "name": "echelon-icons-source",
+  "version": "0.1.0",
+  "private": false,
+  "description": "ECHELON icon source set for React and react-icons submission",
+  "type": "module",
+  "files": [
+    "icons",
+    "src"
+  ],
+  "peerDependencies": {
+    "react": ">=18"
+  }
+}
